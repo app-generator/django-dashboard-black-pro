@@ -165,8 +165,8 @@ The app is provided with a basic configuration to be executed in [Heroku](https:
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/django-dashboard-black.git
-$ cd django-dashboard-black
+$ git clone https://github.com/app-generator/priv-django-dashboard-black-pro.git
+$ cd priv-django-dashboard-black-pro
 $
 $ # Heroku Login
 $ heroku login
@@ -201,8 +201,8 @@ The application can be easily executed in a docker container. The steps:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/django-dashboard-black.git
-$ cd django-dashboard-black
+$ git clone https://github.com/app-generator/priv-django-dashboard-black-pro.git
+$ cd priv-django-dashboard-black-pro
 ```
 
 > Start the app in Docker
