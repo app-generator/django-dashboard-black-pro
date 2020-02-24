@@ -259,7 +259,6 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ## Django Black PRO - app screens
----
 
 <br />
 
@@ -276,7 +275,6 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ## Credits & Links
----
 
 <br />
 
