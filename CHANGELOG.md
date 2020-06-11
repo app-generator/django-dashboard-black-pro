@@ -2,6 +2,8 @@
 
 ## [1.0.1] 2020-06-10
 ### Bug fixing, Improvements
+
+- Update the code-base to the latest version - https://github.com/app-generator/boilerplate-code-django-dashboard
 - Add CHANGELOG.md to track all changes
 - Patch - Error when access `admin` path (no trailing slash)
 - Patch - Error-404.html not used in all contexts
