@@ -12,7 +12,7 @@
 
 > Links
 
-- [Django Dashboard Black PRO](https://django-dashboard-black-pro.appseed.us/) - LIVE Demo
+- [Django Dashboard Black PRO](https://django-dashboard-black-pro-demo.appseed.us/) - LIVE Demo
 - [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro) - Official product page
 - More [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **[AppSeed](https://appseed.us)**
 - [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
